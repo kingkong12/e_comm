@@ -2,7 +2,7 @@ import styled from 'styled-components'
 import reportWebVitals from '../reportWebVitals'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import 'papercss/dist/paper.min.css'
-
+// placeholder
 function AppRoutes() {
   //   reportWebVitals(console.log)
   return (
